@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @bduardol
 - 👀 I'm interested in learning to program
-- 🌱 I’m currently learning python
+- 🌱 I’m currently learning python, java, javascript, sql, c#
 - 💞️ I’m looking to collaborate on projects
 - 📫 You will find me on instagram @bduardol
 
