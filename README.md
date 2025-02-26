@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @bduardol
+- 👋 Hi, I’m @brnduol
 - 👀 I'm interested in learning to program
 - 🌱 I’m currently learning python, java, javascript, sql, c#
 - 💞️ I’m looking to collaborate on projects
-- 📫 You will find me on instagram @bduardol
+- 📫 You will find me on instagram @brnduol
 
 <!---
 bduardol/bduardol is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
